@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Junteng Liu, a first-year PhD candidate at the [HKUST NLP Group](https://hkust-nlp.github.io/), Hong Kong University of Science and Technology, where I am fortunate to be advised by [Professor Junxian He](https://jxhe.github.io/). My research focuses on natural language processing and machine learning. My research interests include LLM Reasoning and Reinforcement Learning, Hallucination in Vision-Language Models (VLMs), and LLM Truthfulness and Interpretability.
+I am Junteng Liu, a first-year PhD candidate at the HKUST NLP Group, Hong Kong University of Science and Technology, where I am advised by Professor Junxian He. My research focuses on natural language processing and machine learning. My research interests include LLM Reasoning and Reinforcement Learning, Hallucination in Vision-Language Models (VLMs), and LLM Truthfulness and Interpretability.
 
 Education
 ======
@@ -72,7 +72,7 @@ Awards
 
 Contact
 ======
-- Email: [jliugi@connect.ust.hk](mailto:jliugi@connect.ust.hk)
+- Email: jliugi@connect.ust.hk
 - GitHub: [Vicent0205](https://github.com/Vicent0205)
 - Google Scholar: [profile](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate)
-- X (Twitter): [@junteng88716710](https://x.com/junteng88716710)
+- X (Twitter): @junteng88716710
